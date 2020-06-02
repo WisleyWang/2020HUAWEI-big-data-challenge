@@ -2,7 +2,7 @@
 
 ------------------------------------
 # 2020中国高校计算机大赛·华为云大数据挑战赛--热身赛
-![Alt text](https://dsfile.devcloud.huaweicloud.com/CompetitionUploadService/v1/noauth/competition/downLoad/image?uuid=57e607d7236a4fc4903194e6b9e2c5a8)
+![Alt text](https://github.com/UestcWisely/2020HUAWEI-big-data-challenge/blob/master/picture/image.png)
 
 热身赛：Rank 7
 
@@ -19,6 +19,7 @@ CSDN博客：[我的博客](https://blog.csdn.net/qq_26593695/article/details/10
 为目标，邀请各个队伍以历史交通流量数据建立对应的算法模型，预测目标流量数据，通过预测值和真实
 值之间的对比得到预测准确率，以此来评估各队伍所提交的预测算法。
 ```
+![data](https://github.com/UestcWisely/2020HUAWEI-big-data-challenge/blob/master/picture/%E5%86%B2%E5%AD%90%E5%AB%81%E5%85%88.png)
 ## requirements 
 * lightgbm  2.3.0  
 * sklearn
